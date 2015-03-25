@@ -1,5 +1,4 @@
-JavaRedisClient
-====================
+# JavaRedisClient
 
 This code is based on an ancient version of Redis, and is dated. This is based on Redis Client blog entry that I wrote a while back: http://subbaraman.wordpress.com/2009/04/03/redis-java-client/
 
